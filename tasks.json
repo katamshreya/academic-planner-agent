@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Build academic planner agent",
+    "due_date": "2026-05-20",
+    "priority": "high",
+    "estimated_hours": 6,
+    "notes": "Create Python project, generate weekly plan, save output"
+  },
+  {
+    "title": "Practice LeetCode",
+    "due_date": "daily",
+    "priority": "medium",
+    "estimated_hours": 1,
+    "notes": "Focus on arrays and hashmaps"
+  }
+]
